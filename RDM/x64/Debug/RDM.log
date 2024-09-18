@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\NLY\Desktop\Code\c++\RDM\main.cpp(206,24): warning C4838: conversion from 'FT_Pos' to 'GLuint' requires a narrowing conversion
+C:\Users\NLY\Desktop\Code\c++\RDM\main.cpp(290,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\NLY\Desktop\Code\c++\RDM\main.cpp(678,37): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\NLY\Desktop\Code\c++\RDM\main.cpp(678,31): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  RDM.vcxproj -> C:\Users\NLY\Desktop\Code\c++\RDM\x64\Debug\RDM.exe
